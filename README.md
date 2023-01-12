@@ -1,1 +1,4 @@
-# Old-Epic-Tag-Installer
+# Hello! :)
+
+
+DO NOT USE THIS IF YOUR NOT GOING TO CREDIT ME
