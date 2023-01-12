@@ -1,0 +1,8 @@
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\bin\Debug\NextFN Installer.exe.config
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\bin\Debug\NextFN Installer.exe
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\bin\Debug\NextFN Installer.pdb
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\obj\Debug\Epic Tag Installer.csproj.AssemblyReference.cache
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\obj\Debug\Epic Tag Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\obj\Debug\Epic Tag Installer.csproj.CoreCompileInputs.cache
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\obj\Debug\NextFN Installer.exe
+C:\Users\unnam\Desktop\Installer-main\NextFN Installer\obj\Debug\NextFN Installer.pdb
